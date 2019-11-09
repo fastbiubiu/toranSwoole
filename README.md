@@ -1,5 +1,5 @@
 # toranSwoole
-###代理地址 repo 
+###代理地址 
 ```
 #repo     private|public 通常是私有和公有库
 #laravel  包名字
